@@ -38,6 +38,7 @@ Planche de BD
 BD :
 - Entraînement d’un VAE (beta-VAE ou VAE hiérarchique)
 - Extraction de features : structure des cases, texte, couleurs
+- Projection des vecteurs de l'espace latent du VAE sur l'espace latent de CLIP afin d'organiser l'espace latent du VAE comme l'espace latent de CLIP
 
 Audio :
 - Transformation des fichiers .wav en spectrogrammes
