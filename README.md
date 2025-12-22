@@ -63,13 +63,9 @@ Les features audio sont apprises directement depuis l’espace latent pour évit
 
 BD :
 - eBDtheque
-- Manga109
 
 Audio :
 - FSD50K
-- AudioSet
-- ESC-50
-- BBC Sound Effects
 
 ---
 
